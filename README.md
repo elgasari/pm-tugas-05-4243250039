@@ -10,10 +10,10 @@
 ## (b) Tangkapan Layar Mode Terang dan Gelap
 
 ### Mode Terang
-![Tangkapan Layar Mode Terang](screenshots/light_mode.jpg)
+![Tangkapan Layar Mode Terang](screenshots/light_mode.png)
 
 ### Mode Gelap
-![Tangkapan Layar Mode Gelap](screenshots/dark_mode.jpg)
+![Tangkapan Layar Mode Gelap](screenshots/dark_mode.png)
 
 ---
 
